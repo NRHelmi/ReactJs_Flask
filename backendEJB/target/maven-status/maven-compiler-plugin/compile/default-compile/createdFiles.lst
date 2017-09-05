@@ -1,0 +1,5 @@
+com\test\rest\CORSResponseFilter.class
+com\test\model\Person.class
+com\test\rest\PersonWS.class
+com\test\app\App.class
+com\test\dao\PersonDao.class
