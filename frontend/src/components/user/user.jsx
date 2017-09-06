@@ -65,7 +65,7 @@ class User extends Component{
                                         </div>
                                     </div>
                                     <div className="text-center">
-                                        <button type="submit" className="btn btn-info btn-fill btn-wd" value="Submit">Update Profile</button>
+                                        <button type="submit" className="btn btn-info btn-fill btn-wd" value="Submit">Add Customer</button>
                                     </div>
                                     <div className="clearfix"></div>
                                 </form>
